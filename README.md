@@ -14,7 +14,7 @@ To start using the Agentic AI Trip Planner, you can run it locally using Docker 
 1. **Pull the Docker Image**
 Run the following command to pull the Docker image:
 ```sh
-docker pull adi1710/agent-trip-plan:v1
+docker pull kagHarsh/agent-trip-plan:v1
 ```
 2. **Run the Docker Container**
 Start the application using the following command:
